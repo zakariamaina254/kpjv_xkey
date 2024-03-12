@@ -1,0 +1,20 @@
+{
+  "name": "kpjv_xkey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakariamaina254/kpjv_xkey"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "psvb_xid": "^1.0.0",
+    "htmk_xid": "^1.0.0"
+  }
+}
